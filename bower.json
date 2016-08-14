@@ -1,18 +1,21 @@
 {
-  "name": "creditcard-type-check",
-  "author": [
-    "Jignash Reddy karnati <jignash@gmail.com>"
-  ],
-  "description": "Check for the credit card type",
+"repository": {
+   "type": "git",
+   "url": "https://github.com/jignash/egen-fe-challenge"
+ },
+    
+
+  "description": "Checking for the credit card type using Angular",
   "main": "",
   "keywords": [
     "angular",
     "filter"
   ],
-  "repository": {
-   "type": "git",
-   "url": "https://github.com/KirthikaMohan/egen-fe-challenge-KirthikaMohan"
- },
+    
+  "author": [
+    "Jignash Reddy Karnati <jignash.reddy9@gmail.com>"
+  ],
+
   "license": "MIT",
   "homepage": "",
   "ignore": [
