@@ -1,0 +1,28 @@
+{
+"repository": {
+   "type": "git",
+   "url": "https://github.com/jignash/egen-fe-challenge"
+ },
+    
+
+  "description": "Checking for the credit card type using Angular",
+  "main": "",
+  "keywords": [
+    "angular",
+    "filter"
+  ],
+    
+  "author": [
+    "Jignash Reddy Karnati <jignash.reddy9@gmail.com>"
+  ],
+
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

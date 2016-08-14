@@ -1,0 +1,77 @@
+  
+   body{
+        font-size: 1.1em;
+        font-family:'Raleway', cursive;
+        letter-spacing: 0.5px;
+    }
+
+    input[type=number]::-webkit-inner-spin-button, 
+    input[type=number]::-webkit-outer-spin-button { 
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        margin: 0; 
+    }
+
+   
+    .box
+    {
+        background-color:#f2efef;
+        width:30%;
+    }
+    
+    #card-details
+    {
+        width:100%;
+        margin:0 auto;
+        height:120px;
+        margin-top:20px;
+        padding:10px 0;
+     }
+
+       
+    .defaultIcon{
+        background-image:url("../images/credit.png");
+    }
+    .americanExpress{
+        background-image:url("../images/americanExpress.png");
+    }
+    .discoverCard{
+        background-image:url("../images/discover.png");
+    }
+    .maestro{
+        background-image:url("../images/maestro.png");
+    }
+    .masterCard{
+        background-image:url("../images/mastercard.png");
+    }
+    .visa{
+        background-image:url("../images/visa.png");
+    }
+    
+    #superStar{
+        color:#59C5E9;
+        font-size:25px;
+        padding:0 8px 0 0;
+
+    }
+    label{
+        font-size:16px; 
+    }
+
+.error-box{
+    width:32%;
+}
+
+    #input-box{
+        padding:10px 10px 10px 60px;
+        background-position: left;
+        background-size: 50px 30px;
+        background-repeat: no-repeat;
+        display:inline-block;
+        height:40%;
+        font-size:18px;
+        font-weight:600;
+        
+    }
+        
